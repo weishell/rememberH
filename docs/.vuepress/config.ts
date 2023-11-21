@@ -73,6 +73,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 				  text: 'html',
 				  link: '/pages/book/',
 				},
+				{
+				  text: 'js',
+				  link: '/pages/js/',
+				}
 			   ]
 			   
 		  }
